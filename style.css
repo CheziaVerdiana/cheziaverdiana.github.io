@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=PTSans');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 body {
   background-color: #f2eadb;
@@ -184,7 +184,7 @@ li {
   }
 
   .picture {
-    margin-left: 4em;
+    margin-left: 2em;
   }
 
   .picture img {
@@ -203,13 +203,13 @@ li {
   .dots2 {
     margin-top: 5em;
     float: left;
-    margin-left: 4em;;
+    margin-left: 2.5em;;
   }
 
   .aboutme {
     margin-top: 5em;
     float: left;
-    margin-left: 3em;
+    margin-left: 1em;
     margin-bottom: 5em;
   }
 }
